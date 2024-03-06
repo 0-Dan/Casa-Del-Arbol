@@ -1,0 +1,72 @@
+1-. 6/3/24
+
+cree Plano.md pero lo borro porque quiero enfocarlo por ramas 
+rm Plano.md para borrar
+
+nota: si le hubiera echo un add . 
+primero con git:
+
+git rm --cached Plano.md
+
+luego sin git por comando consola:
+
+rm Plano.md
+
+2-. 
+mkdir docs, scripts, notas, historial creando carpetas con un solo mkdir y comas
+
+
+3-.
+comienzo haciendo ramas
+
+git checkout -b feature/plano, pero me lia feature/plano
+
+como no he asignado nada todavia, resuelvo
+
+git checkout main ---paso a main
+
+git branch -d feature/plano --- la borro
+
+la vuelvo a crear
+
+git checkout -b plano
+
+4-. me voy a docs estando en la rama plano
+
+cd .\docs\
+
+New-Item Plano.md
+
+relleno:
+
+# Plano de la Casa del Árbol
+
+## Entrada Principal
+- Ubicada al norte, accesible por una escalera de cuerda.
+
+## Sala de Estar
+- Confortable, con asientos hechos de troncos y una pequeña estufa de leña.
+
+## Cocina
+- Equipada con lo necesario para preparar recetas del bosque.
+
+## Habitación Secreta
+- Accesible a través de un panel oculto en la sala de estar, contiene libros antiguos y mapas del bosque.
+
+salvo y commiteo
+
+
+git add .\Plano.md
+git commit -m "Añadido plano de la casa del árbol "
+
+subo la rama:
+
+
+5-. voy a main y y voy a hacer un push origin para que quede en github
+
+primero comiteo historial para que aparezca.
+
+git add 
+
+mejor lo comiteo todo
+
