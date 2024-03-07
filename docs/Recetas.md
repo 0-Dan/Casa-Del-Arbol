@@ -50,3 +50,5 @@ Bienvenido al recetario de la Casa del Árbol, donde la naturaleza se encuentra 
 7. Sazona con sal y pimienta antes de servir.
 
 Disfruta de estas delicias naturales en la comodidad de tu casa del árbol, rodeado de la serenidad del bosque.
+
+piensa que la mayor tranquilidad se encuentra cuando estas tranquilo, en armonia y bien alimentado con las mas ricas recetas que el propio bosque te regala.
